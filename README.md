@@ -1,4 +1,4 @@
-# helixsite\
+# HelixGade Technologies WebSite
 \
 Work on this file that's what I want to use as the landing page\
 /home-tracking.html
@@ -9,5 +9,8 @@ please create a new branch and call it ##live branch thats where we will push to
 
 Let me know how it goes
 
+![Image](images/contact.png)
+
+this is the first version
 
 ![Image](images/footer.png)
